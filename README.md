@@ -27,11 +27,16 @@ Your first step is to sign in and get familiar with your new digital workspace.
 
 ### The M365 Home Page
 
-After logging in, you'll see your M365 home page. The most important feature here is the **App Launcher** (Select Apps on the left of your screen)
+After logging in, you'll see your M365 home page. The most important feature here is the **App Launcher** (Select Apps on the left of your screen)  
+
 > [!NOTE]
 > Select Outlook for your first run if you are new to Microsoft 365
-<img width="3840" height="1282" alt="{276D86DB-EBB3-4A73-A904-76A7F3FD4677}" src="https://github.com/user-attachments/assets/67998ae6-dbb8-4ce0-9c75-847ce2e74754" />
 
+<img width="3840" height="1282" alt="{276D86DB-EBB3-4A73-A904-76A7F3FD4677}" src="https://github.com/user-attachments/assets/67998ae6-dbb8-4ce0-9c75-847ce2e74754" />  
+
+
+> [!CAUTION]
+> YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING (eg. Renaming or rearranging them)
 ---
 
 > [!TIP]
