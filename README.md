@@ -117,4 +117,4 @@ Teams is the central hub where communication and collaboration happen. It brings
 4.  **Complete the login and you will be able to activate your 2FA**
 
 
-If you have any questions, please contact `[Your IT Department Contact Information]`. Welcome aboard!
+If you have any questions, please contact **[Bernard Lim](https://teams.microsoft.com/l/chat/0/0?users=<bernard.lim@multitude.biz>)**. Welcome aboard!
