@@ -72,7 +72,7 @@ Think of OneDrive as your personal C: drive, but in the cloud. It's where you sh
 If OneDrive is your personal drive, SharePoint is your team's **shared network drive**. It’s where files and resources for departments, projects, and the entire company are stored.
 
 * **Team Sites:** Each department or major project has a "Team Site." This is the central place to find all shared documents, lists, and resources relevant to that team.
-* **Company Intranet:** SharePoint also powers our company's main intranet page **[Limitless Sharepoint](https://limitlesssg.sharepoint.com/sites/Limitless)**. Visit it for company-wide news, HR documents, and official announcements.
+* **Company Intranet:** SharePoint also powers our company's main intranet page **[Limitless Sharepoint](https://limitlesssg.sharepoint.com/sites/Limitless)**. Visit it for company-wide news, company events and official announcements.
 * **Accessing Files:** You can access SharePoint files directly through a link, from the M365 home page, or through the "Files" tab in a connected Microsoft Teams channel.
 
 ---
