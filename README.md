@@ -7,7 +7,7 @@
 
 # Welcome to Microsoft 365! 🚀
 
-Welcome to the team! This guide will help you get started with Microsoft 365 (M365), our primary platform for communication, collaboration, and file storage. Think of it as your digital office.
+Welcome to the Limitless team! This guide will help you get started with Microsoft 365 (M365), our primary platform for communication, collaboration, and file storage. Think of it as your digital office.
 
 ---
 
