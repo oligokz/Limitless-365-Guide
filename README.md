@@ -20,7 +20,7 @@ Your first step is to sign in and get familiar with your new digital workspace.
 1.  Open any web browser (like Chrome, Edge, or Firefox).
 2.  Go to **[office.com](https://office.com)**.
 3.  Enter your work email address: `[e.g., your.name@company.com]`.
-4.  Enter the temporary password provided by `[e.g., the IT Department]`. You will be prompted to create a new, secure password.
+4.  Enter the temporary password provided by `[Management]`. Please proceed to change your password.
 
 <img width="3799" height="1558" alt="{5600587A-A5F6-46C6-A5D5-D074538F4A5A}" src="https://github.com/user-attachments/assets/a5f95c11-3850-4ed3-8981-75bbb2334aac" />
 
@@ -65,13 +65,17 @@ Think of OneDrive as your personal C: drive, but in the cloud. It's where you sh
 * **Saving Files:** When working in apps like Word or Excel, choose **"Save As"** and select your OneDrive.
 * **Sharing Files:** To share a file, click the **Share** button next to the filename. This is better than sending attachments because it ensures everyone is working on the latest version.
 
+---
+
 ### 📂 SharePoint: Your Team File Storage & Intranet
 
 If OneDrive is your personal drive, SharePoint is your team's **shared network drive**. It’s where files and resources for departments, projects, and the entire company are stored.
 
 * **Team Sites:** Each department or major project has a "Team Site." This is the central place to find all shared documents, lists, and resources relevant to that team.
-* **Company Intranet:** SharePoint also powers our company's main intranet page `[e.g., link to your company's SharePoint homepage]`. Visit it for company-wide news, HR documents, and official announcements.
+* **Company Intranet:** SharePoint also powers our company's main intranet page **[Limitless Sharepoint](https://limitlesssg.sharepoint.com/sites/Limitless)**. Visit it for company-wide news, HR documents, and official announcements.
 * **Accessing Files:** You can access SharePoint files directly through a link, from the M365 home page, or through the "Files" tab in a connected Microsoft Teams channel.
+
+---
 
 ### 💬 Microsoft Teams: Your Communication Hub
 
@@ -98,6 +102,8 @@ Teams is the central hub where communication and collaboration happen. It brings
 > [!NOTE]
 > TEAMS APP IS FREE, PERSONALLY I PREFER THE APP VERSION BUT IT'S YOUR CHOICE!
 
+---
+
 * ### How to Register for 2FA (Two-Factor Authentication) 📱  
 
 > [!IMPORTANT]
@@ -107,9 +113,8 @@ Teams is the central hub where communication and collaboration happen. It brings
 
 1.  **Download the App:** Before you log in for the first time, go to your phone's app store (Apple App Store or Google Play Store) and install the free **Microsoft Authenticator** app.
 2.  **Start the Process:** During your first login on your computer, you will see a "More information required" prompt. Click **"Next"**.
-3.  **Scan the QR Code:** On the "Keep your account secure" screen, select **"Mobile app"** from the dropdown list. A QR code will appear on your computer screen.
-4.  **Connect Your Phone:** Open the Microsoft Authenticator app on your phone. Tap the plus `+` icon to add an account, select "Work or school account," and then choose "Scan a QR code."
-5.  **Approve the Sign-in:** Use your phone's camera to scan the QR code on your computer screen. Once it's linked, your computer screen will update. The app will then send a test notification to your phone. Tap **"Approve"** to complete the setup.
+3.  **Connect Your Phone:** Open the Microsoft Authenticator app on your phone. Tap the plus `+` icon to add an account, select "Work or school account,"
+4.  **Complete the login and you will be able to activate your 2FA**
 
 
 If you have any questions, please contact `[Your IT Department Contact Information]`. Welcome aboard!
