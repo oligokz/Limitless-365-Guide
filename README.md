@@ -35,8 +35,7 @@ After logging in, you'll see your M365 home page. The most important feature her
 <img width="3840" height="1282" alt="{276D86DB-EBB3-4A73-A904-76A7F3FD4677}" src="https://github.com/user-attachments/assets/67998ae6-dbb8-4ce0-9c75-847ce2e74754" />  
 
 
-> [!CAUTION]
-> YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING (eg. Renaming or rearranging them)
+
 ---
 
 > [!TIP]
@@ -58,6 +57,11 @@ This is where you'll manage your emails and schedule.
 * **To Check Email:** Click the **Outlook** icon from the App Launcher. Your inbox will be displayed.
 * **To View Your Calendar:** Inside Outlook, find the **calendar icon** on the left-hand navigation bar.
 * **To Create a Meeting:** Go to your calendar, click the **"New Event"** button, fill in the details, and invite attendees by typing their names.
+
+> [!CAUTION]
+> YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING (eg. Renaming or rearranging them)
+
+---
 
 ### ☁️ OneDrive: Your Personal File Storage = Google Personal Drive  
 <img width="3840" height="1633" alt="{47C77E6C-98D7-4203-8482-568D10A75B25}" src="https://github.com/user-attachments/assets/4b342840-a948-4080-a377-22b94bf4756c" />  
