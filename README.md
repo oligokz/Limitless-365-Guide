@@ -56,7 +56,9 @@ This is where you'll manage your emails and schedule.
 
 ### ☁️ OneDrive: Your Personal File Storage = Google Personal Drive  
 <img width="3840" height="1633" alt="{47C77E6C-98D7-4203-8482-568D10A75B25}" src="https://github.com/user-attachments/assets/4b342840-a948-4080-a377-22b94bf4756c" />  
+
 Think of OneDrive as your personal C: drive, but in the cloud. It's where you should save all your individual work files.  
+
 > [!IMPORTANT]
 > Shared Folders are currently segmentated by department and you should see them on the Quick Access bar  
 * **Access Your Files Anywhere:** You can access your OneDrive files from any device by logging into `office.com`.
@@ -87,16 +89,19 @@ Teams is the central hub where communication and collaboration happen. It brings
 
 ## Part 3: Essential Tips
 
-* **Web vs. Desktop Apps:** You can use M365 apps directly in your web browser, or you can install the desktop versions for more features. We recommend installing the desktop versions of **Outlook** and **Teams**.\
-`[ONLY AVAILABLE FOR USERS WITH THE MICROSOFT STANDARD LICENSE]`\
-`[TEAMS APP IS FREE, PERSONALLY I PREFER THE APP VERSION BUT IT'S YOUR CHOICE!]`
-
+* **Web vs. Desktop Apps:** You can use M365 apps directly in your web browser, or you can install the desktop versions for more features. We recommend installing the desktop versions of **Outlook** and **Teams**.
 * **Use the Search Bar:** The search bar at the top of the M365 home page is very powerful. It can find files, chats, emails, and people across all your apps.
-* **Get the Mobile Apps:** Install Outlook and Teams on your phone to stay connected on the go.\
+* **Get the Mobile Apps:** Install Outlook and Teams on your phone to stay connected on the go.  
+> [!CAUTION]
+> ONLY AVAILABLE FOR USERS WITH THE MICROSOFT STANDARD LICENSE
 
-* ### How to Register for 2FA (Two-Factor Authentication) 📱\
+> [!NOTE]
+> TEAMS APP IS FREE, PERSONALLY I PREFER THE APP VERSION BUT IT'S YOUR CHOICE!
 
-`[AS 29 AUG 2025, 2FA IS NOT ENFORCED YET - WE WILL NOTIFY EVERYONE ONCE IT IS SO YOU CAN SKIP THIS STEP]`
+* ### How to Register for 2FA (Two-Factor Authentication) 📱  
+
+> [!IMPORTANT]
+> AS 29 AUG 2025, 2FA IS NOT ENFORCED YET - WE WILL NOTIFY EVERYONE ONCE IT IS SO YOU CAN SKIP THIS STEP
 
 2FA adds a crucial layer of security to your account. You will be prompted to set this up during your first login. The recommended method is using the Microsoft Authenticator app on your smartphone.
 
