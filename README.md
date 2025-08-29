@@ -1,6 +1,6 @@
 <p align="center">
   <img width="460" height="300" src="signin_background.jpg">
-<p>
+</p>
 
 
 > [!NOTE]
@@ -23,6 +23,7 @@ Your first step is to sign in and get familiar with your new digital workspace.
 3. Enter your work email address: `[e.g., your.name@company.com]`.
 4. Enter the temporary password provided by `[Management]`. Please proceed to change your password.
 
+<br>
 <img width="3799" height="1558" alt="{5600587A-A5F6-46C6-A5D5-D074538F4A5A}" src="https://github.com/user-attachments/assets/a5f95c11-3850-4ed3-8981-75bbb2334aac" />
 
 
@@ -33,6 +34,7 @@ After logging in, you'll see your M365 home page. The most important feature her
 > [!NOTE]
 > Select Outlook for your first run if you are new to Microsoft 365.
 
+<br>
 <img width="3840" height="1282" alt="{276D86DB-EBB3-4A73-A904-76A7F3FD4677}" src="https://github.com/user-attachments/assets/67998ae6-dbb8-4ce0-9c75-847ce2e74754" />
 
 
@@ -41,7 +43,7 @@ After logging in, you'll see your M365 home page. The most important feature her
 > [!TIP]
 > To switch apps click the waffle logo on the top left and it will open up your apps menu.
 
-
+<br>
 <img width="3840" height="1645" alt="{7BED5043-FFC2-494D-A757-B007FC3C07E1}" src="https://github.com/user-attachments/assets/9746f67c-292e-422f-81bb-9bb450b3e0b4" />
 
 
@@ -53,9 +55,8 @@ These three apps will be central to your daily work.
 
 ### 📧 Outlook: Your Email and Calendar = Google Gmail
 
-
+<br>
 <img width="3837" height="1639" alt="{E5DFE76C-ED5A-4208-8E61-D6280DEB7FE2}" src="https://github.com/user-attachments/assets/39c9cbc9-fa8e-49b5-874c-ce5c7a60bc40" />
-
 
 
 This is where you'll manage your emails and schedule.
@@ -67,13 +68,27 @@ This is where you'll manage your emails and schedule.
 #### How to Create an Email Signature (Web Version)
 1.  **Open Settings:** While in Outlook, click the **gear icon** (⚙️) in the top right corner.
 2.  **View All Outlook Settings:** At the bottom of the settings panel, click on "**View all Outlook settings**".
-3.  **Go to Compose and reply:** In the **Settings** window, select **Mail** from the left-hand menu, and then click on **Compose and reply**.
-4.  **Create Your Signature:** In the **Email signature** section, create and format your signature in the text box.
-5.  **Set Default Signatures:** Below the editor, choose whether to automatically include your signature on new messages and on replies/forwards.
+3.  **Go to Signatures:** In the **Settings** window, select **Account** from the left-hand menu, and then click on **Signatures**.
+4.  **Create Your Signature:** Click **"+ New signature"**, give it a name, and create your signature in the text box below.
+5.  **Set Default Signatures:** Below the editor, choose your new signature for new messages and for replies/forwards.
 6.  **Save:** Click the **Save** button.
 
-> [!CAUTION]
-> YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING
+<b>
+<img width="3801" height="1618" alt="{1217C83E-FACC-42F1-B477-E09C9E5FACC0}" src="https://github.com/user-attachments/assets/6b455d44-1f88-49a5-abcf-dc3848fb7025" />
+
+#### How to Add a Shared Mailbox
+1.  In Outlook on the web, find the folder pane on the left side.
+2.  **Right-click** on your account name (usually your email address at the top of the folders).
+3.  From the menu that appears, select **"Add shared folder or mailbox"**.
+4.  In the dialog box, type the name or email address of the shared mailbox you have access to.
+5.  Click **Add**. The mailbox will now appear in your folder list on the left.
+
+<b>
+<img width="3835" height="1636" alt="{9FC409A0-E6E8-4A8D-9604-F6812AA105A5}" src="https://github.com/user-attachments/assets/34e6b84b-01da-45b7-ba2e-f230be30ec27" />    
+
+
+ > [!CAUTION]
+ > YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING (eg. Renaming or rearranging them).
 
 ---
 
@@ -108,7 +123,7 @@ If OneDrive is your personal drive, SharePoint is your team's **shared network d
 
 Teams is the central hub where communication and collaboration happen. It brings together chat, meetings, and files (from SharePoint) into one place.
 
-
+<br>
 <img width="3840" height="1624" alt="{4E3AE10D-5B4B-411F-AAD0-639DA417C6C7}" src="https://github.com/user-attachments/assets/86437754-236b-4fb7-b7c9-16708e62a4ae" />
 
 
