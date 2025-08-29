@@ -73,7 +73,7 @@ This is where you'll manage your emails and schedule.
 6.  **Save:** Click the **Save** button.
 
 > [!CAUTION]
-> YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING (eg. Renaming or rearranging them).
+> YOU MIGHT NEED TO DO SOME FOLDER HOUSEKEEPING
 
 ---
 
